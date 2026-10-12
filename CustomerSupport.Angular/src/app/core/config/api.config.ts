@@ -3,4 +3,4 @@
  * Default matches CustomerSupport.API/Properties/launchSettings.json (HTTPS profile).
  * Do not include a trailing slash or /api suffix.
  */
-export const API_BASE_URL = 'https://localhost:7172';
+export const API_BASE_URL = 'https://localhost:7158';
