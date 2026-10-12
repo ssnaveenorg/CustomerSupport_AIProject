@@ -1,0 +1,12 @@
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\bin\Debug\net10.0\CustomerSupport.Domain.deps.json
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\bin\Debug\net10.0\CustomerSupport.Domain.dll
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\bin\Debug\net10.0\CustomerSupport.Domain.pdb
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\obj\Debug\net10.0\CustomerSupport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\obj\Debug\net10.0\CustomerSupport.Domain.AssemblyInfoInputs.cache
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\obj\Debug\net10.0\CustomerSupport.Domain.AssemblyInfo.cs
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\obj\Debug\net10.0\CustomerSupport.Domain.csproj.CoreCompileInputs.cache
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\obj\Debug\net10.0\CustomerSupport.Domain.dll
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\obj\Debug\net10.0\refint\CustomerSupport.Domain.dll
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\obj\Debug\net10.0\CustomerSupport.Domain.pdb
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\obj\Debug\net10.0\ref\CustomerSupport.Domain.dll
+D:\Training\Design Patterns\Projects\CustomerSupportSystem\CustomerSupport.Domain\obj\Debug\net10.0\Customer.1C45DAA2.Up2Date
