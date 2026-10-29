@@ -1,4 +1,6 @@
-﻿using CustomerSupport.Infrastructure.Configurations;
+﻿using CustomerSupport.Application.Interfaces.Services;
+using CustomerSupport.Infrastructure.Configurations;
+using CustomerSupport.Infrastructure.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
@@ -67,9 +69,13 @@ namespace CustomerSupport.Infrastructure.Extensions
                 return new OpenAIClient(settings.ApiKey);
             });
 
+            // Register our application-specific AI service.
+            // Scoped creates a service instance for each
+            // ASP.NET Core dependency-injection scope.
+            services.AddScoped<IOpenAITicketSummaryService, OpenAITicketSummaryService>();
+
             // Return IServiceCollection.
             return services;
         }
     }
 }
-
